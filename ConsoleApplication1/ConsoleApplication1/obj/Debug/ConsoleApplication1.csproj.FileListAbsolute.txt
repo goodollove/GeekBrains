@@ -1,1 +1,0 @@
-C:\Users\Александр\Documents\github\GeekBrains_hello_csharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
